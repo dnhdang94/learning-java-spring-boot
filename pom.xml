@@ -21,6 +21,8 @@
         <module>spring-boot-mongodb</module>
         <module>spring-boot-amqp/example01/rabbitmq-producer</module>
         <module>spring-boot-amqp/example01/rabbitmq-consumer</module>
+        <module>spring-boot-amqp/example02/rabbitmq-producer02</module>
+        <module>spring-boot-amqp/example02/rabbitmq-consumer02</module>
     </modules>
 
     <properties>
