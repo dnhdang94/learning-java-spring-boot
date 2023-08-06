@@ -19,8 +19,6 @@ f
 6spring-boot-amqp/example02/rabbitmq-producer02/pom.xml,b\a\bad4986ae1c2c26d21f4805217ba4789f8aca9f0
 ‚
 Rspring-boot-amqp/example02/rabbitmq-producer02/src/main/java/com/dangdnh/Main.java,2\1\21ef7239de2e551789e710011bee1134cb9cce73
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 d
 4spring-boot-amqp/example01/rabbitmq-consumer/pom.xml,f\3\f3e0136a5d01cb99b1444d7f323df85f0e1c9d0c
 f
@@ -29,3 +27,9 @@ f
 Rspring-boot-amqp/example02/rabbitmq-consumer02/src/main/java/com/dangdnh/Main.java,d\c\dc84c5b81981a89168a3650307ab463dcfd858cb
 ›
 kspring-boot-amqp/example02/rabbitmq-producer02/src/main/java/com/dangdnh/controller/ProducerController.java,3\b\3ba8808992de2aa5992c0d8e95b59b34ab79b5cd
+Š
+Zspring-boot-cache-redis/ex01/spring-boot-cache-redis01/src/main/java/com/dangdnh/Main.java,9\e\9e1677964328ede04d6a27c90a98672a5d2816e5
+n
+>spring-boot-cache-redis/ex01/spring-boot-cache-redis01/pom.xml,f\0\f0b65b5b0ccdfb64def785ec624e5fa810ce586e
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
